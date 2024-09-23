@@ -28,7 +28,7 @@ This project is a backend service built with **FastAPI** that uses **Optical Cha
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/fastapi_project.git
+git clone https://github.com/Haileliul/fastapi_project.git
 cd fastapi_project
 ```
 ### 2. Set Up a Virtual Environment (Optional but recommended)
